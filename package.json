@@ -1,0 +1,33 @@
+{
+  "name": "supply-chain-rp",
+  "version": "1.0.0",
+  "description": "Lightweight module with essential tools for supply chain resource planning.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-ballinger/supply-chain-rp.git"
+  },
+  "keywords": [
+    "supply",
+    "chain",
+    "resource",
+    "planning",
+    "rp",
+    "cpim",
+    "ascm",
+    "tiny"
+  ],
+  "author": "Adam Ballinger",
+  "license": "ISC",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "homepage": "https://github.com/adam-ballinger/supply-chain-rp",
+  "bugs": {
+    "url": "https://github.com/adam-ballinger/supply-chain-rp/issues"
+  },
+  "dependencies": {
+    "workflow-database": "^1.0.1"
+  }
+}
