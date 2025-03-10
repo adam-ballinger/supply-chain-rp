@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/adam-ballinger/supply-chain-rp.git"
   },
+  "scripts": {
+    "dev": "nodemon __tests__/index.test.js"
+  },
   "keywords": [
     "supply",
     "chain",
