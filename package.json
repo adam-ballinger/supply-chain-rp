@@ -32,5 +32,10 @@
   },
   "dependencies": {
     "workflow-database": "^1.0.1"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "__tests__/test-database/"
+    ]
   }
 }
